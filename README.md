@@ -35,4 +35,6 @@ In order to run this program a complete installation of the coupled dipole appro
 
 In order to generate the aggregates FracVAL is used (publication: https://doi.org/10.1016/j.cpc.2019.01.015, code: http://dx.doi.org/10.17632/mgf8wdcsfb.1)
 
+If you find this code useful please cite https://pubs.acs.org/doi/10.1021/acsanm.1c00668
+
 The folders Dfvals_ # contain some test aggregates as examples that were generated with "Manage_FracVAL_runs.R" and can be analysed with both "Control_script_general.R" and "Space_job_control.R"
